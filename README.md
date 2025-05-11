@@ -1,8 +1,8 @@
 #  DIY Electric Project – Garage Setup
 
-Este proyecto tiene que ver poco con mi especialización en IT y electrónica, pero tenía ganas de compartirlo por que muchas veces no nos damos cuenta de lo peligroso
-Small personal project to improve the electric system in my garage.  
-I installed a new power line, added extra sockets, and installed outdoor lights with automatic control.  
+Este proyecto tiene que ver poco con mi especialización en IT y electrónica, pero tenía ganas de compartirlo por que muchas veces no nos damos cuenta de lo peligroso que es tener una instalación que no es adecuada, en mi caso, los cables que disponía en el garaje eran de 2.5mm2 y eran básicamente 2 enchufes, con eso es imposible suministrar al motor de la puerta, herramienta, lavadora, jardín, etc...
+En otras palabras, el boom en España hizo mucho daño.  
+ 
 
 ---
 
