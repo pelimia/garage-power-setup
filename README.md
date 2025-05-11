@@ -4,22 +4,35 @@ Este proyecto tiene que ver poco con mi especialización en IT y electrónica, p
 Small personal project to improve the electric system in my garage.  
 I installed a new power line, added extra sockets, and installed outdoor lights with automatic control.
 
-## 🧠 Goal
-- Separate line for power tools
-- Motion sensor lighting
-- Safe and clean cable routing
+## 🧰 Herramientas y materiales utilizados
 
-## 🧰 Materials & Tools
-- 3x 2.5mm² cable
-- 16A circuit breaker
-- Outdoor-rated sockets and switch
-- PVC conduit
-- Parkside rotary hammer
+### 🔧 Herramientas principales
+- Martillo perforador (1200W)
+- Pelacables y cortacables
+- Multímetro digital
+- Nivel láser
+- Cinta pasacables
+- Destornilladores y llaves de vaso
+- Guantes dieléctricos y protección ocular
 
-## 📷 Photos
-![before](photos/before.jpg)
-![after](photos/after.jpg)
+### 🔌 Material eléctrico
+- **Cables:**
+  - Azul y marrón 6 mm² H07V-K (750V, flexible)
+  - Azul y marrón 4 mm² H07V-K (750V, flexible)
+  - Varios cables de 2.5 mm² y 1.5 mm² (según uso: fase, neutro, tierra)
 
-## 🗂️ Notes
-- Used black wire as live conductor (properly marked)
-- Mounted all conduits at 45cm height for tool reachability
+- **Protección eléctrica:**
+  - Magnetotérmico Schneider R9F12616 – 16A
+  - Magnetotérmico Schneider R9F12620 – 20A
+  - Magnetotérmico Schneider A9K17225 – 25A, bipolar
+  - Diferencial superinmunizado Schneider A9R61225 – 25A, clase A-SI
+
+- **Cuadro y distribución:**
+  - Caja de automáticos Solera 5421 (20 elementos, superficie)
+  - Peine de conexión Schneider A9XPH212 – 12 módulos, 2 polos
+
+- **Instalación:**
+  - Tubería de PVC para canalización de cables (Ø20 mm)
+  - Enchufes de superficie IP44
+  - Interruptores de superficie IP55
+
