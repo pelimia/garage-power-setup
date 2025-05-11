@@ -2,7 +2,17 @@
 
 Este proyecto tiene que ver poco con mi especialización en IT y electrónica, pero tenía ganas de compartirlo por que muchas veces no nos damos cuenta de lo peligroso
 Small personal project to improve the electric system in my garage.  
-I installed a new power line, added extra sockets, and installed outdoor lights with automatic control.
+I installed a new power line, added extra sockets, and installed outdoor lights with automatic control.  
+
+---
+
+| 🔧 Tipo de proyecto | 🏡 Instalación doméstica (garaje) |
+|---------------------|----------------------------------|
+| 📅 Fecha de ejecución | Mayo 2025 |
+| ⚡ Nivel de tensión | Baja tensión (230V) |
+| 🔌 Elementos clave | Cuadro, diferencial, magnetos, toma EV |
+| 💶 Ahorro estimado | +700 € respecto a instalación profesional |
+
 
 ---
 
@@ -137,6 +147,13 @@ Este proyecto no solo ha supuesto una mejora significativa en la funcionalidad e
 - Experiencia real en diseño, ejecución y verificación de una instalación eléctrica desde cero
 - Refuerzo de habilidades clave: planificación, orden, capacidad de análisis y toma de decisiones técnicas
 
+
+
+---
+
+## 🙋‍♂️ Autor
+
+Proyecto realizado por [@pelimia](https://github.com/pelimia) como ejemplo de autoformación, documentación técnica y enfoque DIY responsable.
 
 
 
